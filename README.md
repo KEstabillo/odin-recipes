@@ -22,3 +22,5 @@ Under the description, add "Ingredients" heading followed by an unordered list.
 4. Add more recipes
 
 Add two more recipes with identical page structures to the recipe page.
+
+Reflection:
